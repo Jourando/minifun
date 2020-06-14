@@ -1,4 +1,3 @@
-# minifun
+# test_repo
+mini repo for lessons
 mgp
-###### 30/11 start
-.
